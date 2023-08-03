@@ -6,8 +6,7 @@ In this Challenge, you’ll use various techniques to train and evaluate a model
 
 ### Info / Credits
 
-- Analysis by
-   * `João Pedro Fortunato` [@joaopedrofortunato](https://github.com/joaopedrofortunato)
+- Analysis by `João Pedro Fortunato` [@joaopedrofortunato](https://github.com/joaopedrofortunato)
 
 - `REPO:` https://github.com/joaopedrofortunato/credit-risk-classification.git
 
