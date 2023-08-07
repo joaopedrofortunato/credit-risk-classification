@@ -32,14 +32,14 @@ The data used for this analysis comes from the lending_data.csv file, which enco
 #### Results
 
 * Logistic Regression Model:
-  Accuracy Score: **95.2%**
-  Precision Score: **1.00** for healthy loans and **0.85** for high-risk loans
-  Recall Score: **0.99** for healthy loans and **0.91** for high-risk loans
+  * Accuracy Score: **95.2%**
+  * Precision Score: **1.00** for healthy loans and **0.85** for high-risk loans
+  * Recall Score: **0.99** for healthy loans and **0.91** for high-risk loans
 
 * Logistic Regression Model with Resampled Training Data:
-  Accuracy Score: **99.4%**
-  Precision Score: **1.00** for healthy loans and **0.84** for high-risk loans
-  Recall Score: **0.99** for both healthy loans and high-risk loans
+  * Accuracy Score: **99.4%**
+  * Precision Score: **1.00** for healthy loans and **0.84** for high-risk loans
+  * Recall Score: **0.99** for both healthy loans and high-risk loans
   
 #### Summary
 
